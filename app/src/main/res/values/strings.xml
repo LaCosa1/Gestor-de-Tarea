@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gestor de tareas</string>
+    <string name="Escriba_Nombre">Escriba su Nombre</string>
+    <string name="Escriba_Email">Escriba su Email</string>
+    <string name="Guardar">Guardar</string>
+</resources>

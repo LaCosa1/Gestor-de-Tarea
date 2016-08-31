@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Task Manager</string>
+    <string name="Escriba_Nombre">Your Name</string>
+    <string name="Escriba_Email">Your E-mail Address</string>
+    <string name="Guardar">Save</string>
+</resources>
